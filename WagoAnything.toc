@@ -1,0 +1,9 @@
+## Interface: 11304
+## Version: 1.3.5
+## Title: Wago Anything - |Cffc1272dWago.io|r
+## Notes: Wago Anything - Import and Export your data at Wago.io
+## Author: Ora
+
+Libs\WagoLib\WagoLib.xml
+Utils.lua
+WagoAnything.lua

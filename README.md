@@ -1,0 +1,5 @@
+# WagoAnything
+
+Very beta.
+
+`/wago`

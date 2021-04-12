@@ -1,0 +1,9 @@
+## Interface: 90005
+## Version: 0.1.1
+## Title: WagoLib
+## Notes: WagoLib: This is intended to be embedded in other addons.
+## Author: Ora @ Wago.io
+
+WagoLib.xml
+Utils.lua
+WagoLib.lua
